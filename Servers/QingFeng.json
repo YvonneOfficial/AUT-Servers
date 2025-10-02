@@ -1,12 +1,12 @@
 [
   {
     "$type": "StaticHttpRegionInfo, Assembly-CSharp",
-    "Name": "FORTEST111111111",
-    "PingServer": "fortest",
+    "Name": "<color=#16FFFF>清风服</color><color=#1B5EB7>[宁波]</color>",
+    "PingServer": "点击输入文本",
     "Servers": [
       {
         "Name": "Http-1",
-        "Ip": "fortest",
+        "Ip": "点击输入文本",
         "Port": 443,
         "UseDtls": false,
         "Players": 0,
