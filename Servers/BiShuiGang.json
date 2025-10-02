@@ -1,0 +1,19 @@
+[
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#00E0FF>碧水港</color><color=#ffff00>[香港]</color>",
+    "PingServer": "miaowuhk.fcaugame.cn",
+    "Servers": [
+      {
+        "Name": "http-1",
+        "Ip": "miaowuhk.fcaugame.cn",
+        "Port": 443,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  }
+]
