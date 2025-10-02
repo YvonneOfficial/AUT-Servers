@@ -1,0 +1,19 @@
+[
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#FFA500>核电站</color><color=#ffff00>[宁波]</color>",
+    "PingServer": "https://nb.aunpp.cn",
+    "Servers": [
+      {
+        "Name": "http-1",
+        "Ip": "https://nb.aunpp.cn",
+        "Port": 8888,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  }
+]
