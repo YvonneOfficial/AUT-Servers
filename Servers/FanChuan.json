@@ -1,0 +1,19 @@
+[
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#ff7518>帆船服<color=#ffff00>[广东广州]",
+    "PingServer": "https://gz.fcaugame.cn",
+    "Servers": [
+      {
+        "Name": "Http-1",
+        "Ip": "https://gz.fcaugame.cn",
+        "Port": 443,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  }
+]
