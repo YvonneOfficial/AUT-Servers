@@ -1,0 +1,70 @@
+[
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#ffe000ff>Niko233(NA)</color>",
+    "PingServer": "https://au-us.niko233.me",
+    "Servers": [
+      {
+        "Name": "Http-1",
+        "Ip": "https://au-us.niko233.me",
+        "Port": 443,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  },
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#ffe000ff>Niko233(AS)</color>",
+    "PingServer": "https://au-as.niko233.me",
+    "Servers": [
+      {
+        "Name": "Http-1",
+        "Ip": "https://au-as.niko233.me",
+        "Port": 443,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  },
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#ffe000ff>Niko233(EU)</color>",
+    "PingServer": "https://au-eu.niko233.me",
+    "Servers": [
+      {
+        "Name": "Http-1",
+        "Ip": "https://au-eu.niko233.me",
+        "Port": 443,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  },
+  {
+    "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+    "Name": "<color=#ffe000ff>Niko233(CN)</color>",
+    "PingServer": "https://au-as.niko233.me",
+    "Servers": [
+      {
+        "Name": "Http-1",
+        "Ip": "https://au-as.niko233.me",
+        "Port": 443,
+        "UseDtls": false,
+        "Players": 0,
+        "ConnectionFailures": 0
+      }
+    ],
+    "TargetServer": null,
+    "TranslateName": 1003
+  }
+]
