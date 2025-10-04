@@ -15,5 +15,22 @@
     ],
     "TargetServer": null,
     "TranslateName": 1003
-  }
+  },
+  {
+      "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+      "Name": "<color=#16FFFF>清风服</color>[应急]",
+      "PingServer": "emergency.server.qingfengawa.top",
+      "Servers": [
+        {
+          "Name": "http-1",
+          "Ip": "https://emergency.server.qingfengawa.top",
+          "Port": 443,
+          "UseDtls": false,
+          "Players": 0,
+          "ConnectionFailures": 0
+        }
+      ],
+      "TargetServer": null,
+      "TranslateName": 1003
+    }
 ]
